@@ -1,15 +1,9 @@
 ---
 layout: timeline 
-title: Η εξέλιξη των συστημάτων της Sharp
+title: Κινητός Υπολογισμός
 image_url: /images/PERSONAL-MOBILE-TOOL.jpg
-caption: Η Sharp κατασκευάζει συστήματα διάδρασης τα οποία είναι προσιτά και εύχρηστα, ενώ οι καινοτομίες εμφανίζονται σταδιακά έτσι ώστε οι χρήστες να έχουν πάντα μια βασική οικειότητα.  
+caption: Ο κινητός υπολογισμός (mobile computing) αναφέρεται στη χρήση φορητών συσκευών, όπως smartphones, tablets, laptops για την πρόσβαση σε δεδομένα και υπηρεσίες οποτεδήποτε και οπουδήποτε, μέσω ενσύρματων ή ασύρματων δικτύων. 
 events:
-  - sharp lcd tv
-  - sharp mobile j-sh04
-  - sharp aquos
-  - sharp-tv 108 inches
-  - sharp tv 8k
-  - sharp mobile aquos crystal
-  - sharp robohon
-  - sharp ldk+ 
+  - PERSONAL-MOBILE-TOOL
+  - ibm-touchscreen-monitor-cash
 ---

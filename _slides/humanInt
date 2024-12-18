@@ -1,1 +1,10 @@
-
+---
+layout: slides
+title: Αλληλεπίδραση
+image_url: /images/ap_1.JPG
+caption: Διαφάνειες για την Εισαγωγή 
+slides:
+  - ap_2
+  - ap_3
+  - ap_4
+---

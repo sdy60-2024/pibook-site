@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Διάδραση BCI/HCI
-image_url: /images/bci3.jpg
+image_url: /images/andy6.png
 caption: Διάδραση  ανθρώπου υπολογιστή
 events:
   - andy1

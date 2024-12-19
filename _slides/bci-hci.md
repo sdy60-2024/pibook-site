@@ -1,7 +1,7 @@
 ---
 layout: slides
-title: BCI/HCI
-caption: Διαφάνειες για τις διαδράσεις BCI/HCI
+title: BCI and HCI
+caption: Διαφάνειες για τις διαδράσεις BCI και HCI
 image_url: /images/bci2.jpg
 slides: 
   - bci1

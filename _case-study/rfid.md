@@ -1,6 +1,6 @@
 ---
 author: TASOS
-title: "RFID"
+title: "RFID - Μια μελέτη περίπτωσης εφαρμογής τς σχετικής τεχνολογίας στην λιανική πώληση"
 image_url: /images/rfid.jpg
 caption: "RFID"
 categories:

@@ -31,3 +31,5 @@ alt="j.c.r-licklider" %}
 χωρίς να λαμβάνεται υπόψη η τοποθεσία.
 
 Το Licklider Transmission Protocol πήρε το όνομά από τον Licklider. 
+
+[^1]: fig. **¿fig:J.C.R. Licklider?**
